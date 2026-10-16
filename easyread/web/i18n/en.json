@@ -1729,5 +1729,6 @@
  "拖曳調整順序": "Drag to reorder",
  "拖曳各項目可調整匯出順序。": "Drag items to change the export order.",
  "順序只會調整匯出的 Markdown，不會改動閱讀器中的筆記。": "The order only affects the exported Markdown; it does not change notes in the reader.",
- "目前環境不支援匯出編碼": "This environment does not support export encoding."
+ "目前環境不支援匯出編碼": "This environment does not support export encoding.",
+ "文獻小幫手": "Literature Helper"
 }
